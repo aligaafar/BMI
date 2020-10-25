@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64103713208",
+    "firebase_url": "https://bmr-app-5bb5e.firebaseio.com",
+    "project_id": "bmr-app-5bb5e",
+    "storage_bucket": "bmr-app-5bb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64103713208:android:277eabc1a485704e56674d",
+        "android_client_info": {
+          "package_name": "com.example.bmrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64103713208-1mqitddf8vkfrngdvfnmbs89ucupntc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmrapp",
+            "certificate_hash": "59029aa76223774495fb83b0d20d1d1cf9dca703"
+          }
+        },
+        {
+          "client_id": "64103713208-8h3b4pmg300re5otc7mi2l63rp910m97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdZIgsxWq1w2djZAClU5QreCDICt03EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64103713208-8h3b4pmg300re5otc7mi2l63rp910m97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
